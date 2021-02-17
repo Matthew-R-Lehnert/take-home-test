@@ -15,6 +15,7 @@
 ### Course Learning Objectives
 ## 5.	Generative Adversarial Networks in R
 ### Course Marketing Description
+Did you know it is possible for a machine to create a cartoon character that you describe?  Generative Adversarial Networks (GANs) make this possible!  This course will teach you how researchers are using GANs to generate text, video, images, sound, and more! With hands on experience, you will gain the building blocks to generate your own novel creations (or are they the AI's creations?). 
 ### Course Learning Objectives
 ## 6.	Transfer Learning and Pretrained Models in R
 ### Course Marketing Description
