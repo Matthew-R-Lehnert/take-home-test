@@ -17,7 +17,7 @@ Datacamp assigned Matthew R. Lehnert a take-home test on 2/15/2021 as part of an
 6. The track outline is not reflective of an existing track
 7. Save this proposal as TrackProposal.md in your GitHub repo
 
-## B. Create Course Outline
+## B. Create a Course Outline
 **Directions**: Create an outline of one of the courses you would include in your proposed track
 ### Course Outline Roadmap
 1. Create four chapters, each with a descriptive name
@@ -32,7 +32,7 @@ Datacamp assigned Matthew R. Lehnert a take-home test on 2/15/2021 as part of an
 
 ## C. Create a Sample Exercise
 **Directions** Create a sample exercise for a lesson from your course outline. A sample exercise is a short code snippet (approximately 5 - 10 lines of code and 4 - 5 lines of code comments) with blanks that learners will fill in based on 2 - 4 bulleted instructions.
-### Course Outline Roadmap
+### Sample Exercise Roadmap
 1. The exercise has 3 - 4 sentences of “Context” that engage the learner and explain why they are completing the exercise
 2. The exercise has 2 - 4 bulleted instructions. Each instruction is a complete sentence that describes a specific task (usually a single line of code that the learner must write)
 3. The solution code is no more than 15 lines of code (including 4 - 5 lines of code comments and any necessary line breaks)
