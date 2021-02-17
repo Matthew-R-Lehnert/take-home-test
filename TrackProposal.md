@@ -9,6 +9,7 @@
 ### Course Learning Objectives
 ## 3.	Recurrent Neural Networks and LSTM in R
 ### Course Marketing Description
+Wouldn't it be nice if you could predict tomorrow's stock price of your favorite company?  Humanity has never been exposed to so much time-series data, and tomorrow there will be even more!  Recurrent Neural Networks (RNNs) and Long Short-Term Memory networks (LSTMs) offer a network architecture to solving time related problems.  In this course, you will learn how to make RNNs and LSTMs and start predicting the future.
 ### Course Learning Objectives
 ## 4.	Convolutional Neural Networks in R
 ### Course Marketing Description
