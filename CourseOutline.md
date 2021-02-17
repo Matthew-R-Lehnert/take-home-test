@@ -1,7 +1,7 @@
-# Deep Neural Networks in R
+# Deep Neural Networks in R (Course Outline)
 ## Course Marketing Description
 ## Course Learning Objectives
-### Chapter 1
+### Chapter 1 - Introduction to Deep Neural Networks
 #### Lesson 1.1
 * Learner will be able to
 * Some functions introduced/used:
