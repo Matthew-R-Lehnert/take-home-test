@@ -18,5 +18,6 @@
 ### Course Learning Objectives
 ## 6.	Transfer Learning and Pretrained Models in R
 ### Course Marketing Description
+Are you short on data and computational power to implement your amazing AI idea?  Have no fear!  Transfer Learning is here! The popularity of deep learning has given birth to many open source pretrained models that will do a lot heavy lifting for you.  This course will introduce you to some of these models along with how to fine tune them to your specific problems.
 ### Course Learning Objectives
 
