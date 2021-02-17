@@ -9,10 +9,8 @@ In this track, you can start from zero knowledge of Deep Learning and build your
 * Learner will be able to modify datasets into train/test/validation sets
 * Learner will be able to differentiate classification and regression problems
 * Learner will be able to construct neural network models for both classification and regression within Keras
-* Learner will be able to modify datasets into train/test/validation sets
 * Learner will be able to distinguish time-series, panel, and cross sectional data
 * Learner will be able to design functions for RNN and LSTM within Keras
-* Learner will be able to modify datasets into train/test/validation sets
 * Learner will be able to convert multidimensional images into a one dimensional array using flattening
 * Learner will be able to evaluate the performance of an image classifer they build using CNN within Keras
 * Learner will be able to produce new text using a GAN within Keras
