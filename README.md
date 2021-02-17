@@ -2,17 +2,17 @@
 #### **Applicant**: Matthew R. Lehnert
 ## Introduction
 Datacamp assigned Matthew R. Lehnert a take-home test on 2/15/2021 as part of an ongoing application process.  The deliverables for the take-home test are three markdown files: **TrackProposal.md**, **CourseOutline.md**, and **SampleExercise.md**.  Below are three roadmaps followed to arrive at the deliverables, which had to be completed in four business days from when the test was assigned (2/19/2021).
-## A. Create a Track Proposal
+## A. Create a Track Proposal (**complete**)
 **Directions**: Create a track proposal in one of the following curriculum areas:
 * Reporting
 * Finance
 * Programming
-* Deep Learning
-### Track Proposal Roadmap
+* **Deep Learning**
+### Track Proposal Roadmap (**complete**)
 1. Create 6-8 Courses (**complete**)
-2. Track has clear learning objectives that would be relevant to a working professional in data science
+2. Track has clear learning objectives that would be relevant to a working professional in data science (**complete**)
 3. Each proposed course has a brief marketing description that would engage a potential learner (**complete**)
-4. Each proposed course has 2 - 3 specific, measurable learning objectives
+4. Each proposed course has 2 - 3 specific, measurable learning objectives (**complete**)
 5. Required prerequisites from DataCamp (if any are necessary) are clearly stated and briefly justified (**complete**)
 6. The track outline is not reflective of an existing track (**complete**)
 7. Save this proposal as TrackProposal.md in your GitHub repo (**complete**)
