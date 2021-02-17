@@ -12,6 +12,7 @@
 ### Course Learning Objectives
 ## 4.	Convolutional Neural Networks in R
 ### Course Marketing Description
+Convolutional Neural Networks???  That sounds convoluted!  Don't run!  In this course we will make convolutional neural networks (CNNs) seem easy.  Enroll today to find out more about one of the most powerful architectures for image recognition.  Gambling at the race track you would want to know whether the animal was a horse or a donkey.  This course on CNNs will help you place your bets!
 ### Course Learning Objectives
 ## 5.	Generative Adversarial Networks in R
 ### Course Marketing Description
