@@ -13,7 +13,7 @@ Datacamp assigned Matthew R. Lehnert a take-home test on 2/15/2021 as part of an
 2. Track has clear learning objectives that would be relevant to a working professional in data science
 3. Each proposed course has a brief marketing description that would engage a potential learner (**complete**)
 4. Each proposed course has 2 - 3 specific, measurable learning objectives
-5. Required prerequisites from DataCamp (if any are necessary) are clearly stated and briefly justified
+5. Required prerequisites from DataCamp (if any are necessary) are clearly stated and briefly justified (**complete**)
 6. The track outline is not reflective of an existing track (**complete**)
 7. Save this proposal as TrackProposal.md in your GitHub repo (**complete**)
 
