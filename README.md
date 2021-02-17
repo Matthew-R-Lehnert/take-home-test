@@ -14,21 +14,21 @@ Datacamp assigned Matthew R. Lehnert a take-home test on 2/15/2021 as part of an
 3. Each proposed course has a brief marketing description that would engage a potential learner
 4. Each proposed course has 2 - 3 specific, measurable learning objectives
 5. Required prerequisites from DataCamp (if any are necessary) are clearly stated and briefly justified
-6. The track outline is not reflective of an existing track
-7. Save this proposal as TrackProposal.md in your GitHub repo
+6. The track outline is not reflective of an existing track (**complete**)
+7. Save this proposal as TrackProposal.md in your GitHub repo (**complete**)
 
 ## B. Create a Course Outline
 **Directions**: Create an outline of one of the courses you would include in your proposed track
 ### Course Outline Roadmap
-1. Create four chapters, each with a descriptive name
-2. Chapter 1 has three lessons and Chapters 2 - 4 have 3 or 4 lessons each
+1. Create four chapters, each with a descriptive name (**complete**)
+2. Chapter 1 has three lessons and Chapters 2 - 4 have 3 or 4 lessons each (**complete**)
 3. Each lesson has at least one specific, measurable learning objective
 4. Each learning objective begins with “Learner will be able to...” and uses a verb from the vocab list
-5. The ordering of lessons is optimized for learner engagement and narrative coherence
+5. The ordering of lessons is optimized for learner engagement and narrative coherence (**complete**)
 6. The course outline is sufficiently detailed to prove that the course will satisfy the learning objective stated in the proposed track
-7. The course outline is not reflective of an existing course
-8. The course can be completed in about 4 hours by a learner of appropriate skill level
-9. Save this outline as CourseOutline.md in your Github repo
+7. The course outline is not reflective of an existing course (**complete**)
+8. The course can be completed in about 4 hours by a learner of appropriate skill level (**complete**)
+9. Save this outline as CourseOutline.md in your Github repo (**complete**)
 
 ## C. Create a Sample Exercise
 **Directions** Create a sample exercise for a lesson from your course outline. A sample exercise is a short code snippet (approximately 5 - 10 lines of code and 4 - 5 lines of code comments) with blanks that learners will fill in based on 2 - 4 bulleted instructions.
