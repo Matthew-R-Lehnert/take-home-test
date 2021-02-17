@@ -11,7 +11,7 @@
 #### Lesson 1.3
 * Learner will be able to
 * Some functions introduced/used:
-### Chapter 2
+### Chapter 2 - Classification with Deep Neural Networks
 #### Lesson 2.1
 * Learner will be able to
 * Some functions introduced/used:
@@ -24,7 +24,7 @@
 #### Lesson 2.4
 * Learner will be able to
 * Some functions introduced/used:
-### Chapter 3
+### Chapter 3 - Regression with Deep Neural Networks
 #### Lesson 3.1
 * Learner will be able to
 * Some functions introduced/used:
@@ -37,7 +37,7 @@
 #### Lesson 3.4
 * Learner will be able to
 * Some functions introduced/used:
-### Chapter 4
+### Chapter 4 - Let's Bring it All Together!
 #### Lesson 4.1
 * Learner will be able to
 * Some functions introduced/used:
