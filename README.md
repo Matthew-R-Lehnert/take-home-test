@@ -37,4 +37,4 @@ Datacamp assigned Matthew R. Lehnert a take-home test on 2/15/2021 as part of an
 2. The exercise has 2 - 4 bulleted instructions. Each instruction is a complete sentence that describes a specific task (usually a single line of code that the learner must write)
 3. The solution code is no more than 15 lines of code (including 4 - 5 lines of code comments and any necessary line breaks)
 4. The sample exercise assesses one or two measurable learning objectives
-5. Save this exercise as SampleExercise.md in your GitHub repo
+5. Save this exercise as SampleExercise.md in your GitHub repo (**complete**)
