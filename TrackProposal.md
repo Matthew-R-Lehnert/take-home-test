@@ -1,5 +1,6 @@
 # Deep Learning in R (Track Proposal)
 ## Track Marketing Description
+In this track, you can start from zero knowledge of Deep Learning and build your way up to deploying high level AI.  Utilizing the powerful and easy to use Keras package, you will learn the most commonly used neural network architectures and deploy them in a multitude of different use cases.  This track is ideal for native R aficionados who want to learn cutting edge approaches to solving problems associated with classification, regression, time-series, image recognition, natural language processing, and more.  By the end of this track you will learn how to use neural networks to create art along with improving pre-existing neural networks developed by industry leaders.
 ## Track Learning Objectives
 ## 1.	Deep Learning for Everyone (Theory Based Free Interactive Course)
 ### Course Marketing Description
