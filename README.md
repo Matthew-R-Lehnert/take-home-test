@@ -1,7 +1,7 @@
 # Datacamp Take-Home Test (Core Curriculum Manager)
 #### **Applicant**: Matthew R. Lehnert
 ## Introduction
-Datacamp assigned Matthew R. Lehnert a take-home test on 2/15/2021 as part of an ongoing application process.  The deliverables for the take-home test are three markdown files: **TrackProposal.md**, **CourseOutline.md**, and **SampleExercise.md**.  Below are three roadmaps followed to arrive at the deliverables, which must be completed in four business days from when the test was assigned (2/19/2021).
+Datacamp assigned Matthew R. Lehnert a take-home test on 2/15/2021 as part of an ongoing application process.  The deliverables for the take-home test are three markdown files: **TrackProposal.md**, **CourseOutline.md**, and **SampleExercise.md**.  Below are three roadmaps followed to arrive at the deliverables, which had to be completed in four business days from when the test was assigned (2/19/2021).
 ## A. Create a Track Proposal
 **Directions**: Create a track proposal in one of the following curriculum areas:
 * Reporting
