@@ -1,7 +1,7 @@
 # Deep Learning in R (Track Proposal)
 ## Track Marketing Description
 ## Track Learning Objectives
-## 1.	Introduction to Deep Learning (theory based)
+## 1.	Deep Learning for Everyone (Theory Based Free Interactive Course)
 ### Course Marketing Description
 ### Course Learning Objectives
 ## 2.	Deep Neural Networks in R
