@@ -19,7 +19,7 @@ In this track, you can start from zero knowledge of Deep Learning and build your
 * Learner will be able to produce a new image using a GAN within Keras
 * Learner will be able to name common open source pretrained models
 * Learner will be able to develop a new neural network from a pretrained neural network using transfer learning in Keras
-* 
+
 ## Track Prerequisites
 **Introduction to the Tidyverse**: The justification for this prerequisite is that RStudio's Keras package relies on the tidyverse framework.  Since the track will be utilizing the Keras package throughout the learner's journey, being familiar with the tidyverse will be essential.
 
