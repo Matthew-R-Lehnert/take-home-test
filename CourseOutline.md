@@ -1,6 +1,6 @@
 # Deep Neural Networks in R (Course Outline)
 ## Course Marketing Description
-Deep Neural Networks (DNNs) are working behind the scenes of your everyday life. From recommeding products for you to buy, classifying your favorite cat pictures, forecasting the weather, to predicting tomorrow's stock prices, DNNs are only getting more powerful. With RStudio's creation of the Keras package it is now possible to deploy powerful DNNs within R. After a broad discussion of DNNs, this course will introduce you to the basic layered architecture of Keras and teach you to build different models for classification and regression problems.
+Deep Neural Networks (DNNs) are working behind the scenes of your everyday life. From recommending products for you to buy, classifying your favorite cat pictures, forecasting the weather, to predicting tomorrow's stock prices, DNNs are only getting more powerful. With RStudio's creation of the Keras package it is now possible to deploy powerful DNNs within R. After a broad discussion of DNNs, this course will introduce you to the basic layered architecture of Keras and teach you to build different models for classification and regression problems.
 ## Course Learning Objectives
 * Learner will be able to modify datasets into train/test/validation sets
 * Learner will be able to differentiate classification and regression problems
