@@ -8,22 +8,21 @@ Deep Neural Networks (DNNs) are working behind the scenes of your everyday life.
 ### Chapter 1 - Introduction to Deep Neural Networks
 #### Lesson 1.1 - What are Deep Neural Networks?
 * Learner will be able to identify use cases where Deep Learning is a better candidate compared to parametric methods and other machine learning algorithms
-* Some functions introduced/used: 
 #### Lesson 1.2 - Introduction to Layers in Keras
-* Learner will be able to recall the steps of build, compile, fit, predict, and evaluate
+* Learner will be able to recall the steps of build and compile
 * Some functions introduced/used:
 #### Lesson 1.3 - Build Your First Model!
-* Learner will be able to identify appropriate activation functions for a binary classification problem
+* Learner will be able to recall the steps of fit, predict, and evaluate
 * Some functions introduced/used:
 ### Chapter 2 - Classification with Deep Neural Networks
 #### Lesson 2.1 - What is Classification again?
 * Learner will be able to differentiate classification and regression problems
 * Some functions introduced/used:
 #### Lesson 2.2 - Binary Classification
-* Learner will be able to
+* Learner will be able to identify appropriate activation functions for a binary classification problem
 * Some functions introduced/used:
 #### Lesson 2.3 - Multi-Label Classification 
-* Learner will be able to
+* Learner will be able to identify appropriate activation functions for a multi-label classification problem
 * Some functions introduced/used:
 #### Lesson 2.4 - Can We Make These Classification Models Better?
 * Learner will be able to 
