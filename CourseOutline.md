@@ -19,35 +19,39 @@ Deep Neural Networks (DNNs) are working behind the scenes of your everyday life.
 * Learner will be able to differentiate classification and regression problems
 * Some functions introduced/used:
 #### Lesson 2.2 - Binary Classification
-* Learner will be able to identify appropriate activation functions for a binary classification problem
+* Learner will be able to modify datasets into train/test/validation sets
+* Learner will be able to identify appropriate activation function for a binary classification problem
 * Some functions introduced/used:
 #### Lesson 2.3 - Multi-Label Classification 
-* Learner will be able to identify appropriate activation functions for a multi-label classification problem
+* Learner will be able to modify datasets into train/test/validation sets
+* Learner will be able to identify appropriate activation function for a multi-label classification problem
 * Some functions introduced/used:
 #### Lesson 2.4 - Can We Make These Classification Models Better?
-* Learner will be able to 
+* Learner will be able to modify tuning parameters such as epochs, learning rate, and dropout rate in order to improve model performance
 * Some functions introduced/used:
 ### Chapter 3 - Regression with Deep Neural Networks
 #### Lesson 3.1 - What is Regression again?
 * Learner will be able to differentiate classification and regression problems
 * Some functions introduced/used:
 #### Lesson 3.2 - Single Target Regression
-* Learner will be able to
+* Learner will be able to modify datasets into train/test/validation sets
+* Learner will be able to identify appropriate activation function for a single target regression problem
 * Some functions introduced/used:
 #### Lesson 3.3 - Multi Target Regression
-* Learner will be able to
+* Learner will be able to modify datasets into train/test/validation sets
+* Learner will be able to identify appropriate activation function for a multi-target regression problem
 * Some functions introduced/used:
 #### Lesson 3.4 - Can We Make These Regression Models Better?
-* Learner will be able to
+* Learner will be able to modify tuning parameters such as epochs, learning rate, and dropout rate in order to improve model performance
 * Some functions introduced/used:
 ### Chapter 4 - Build Your Own Model
 #### Lesson 4.1 - Build Your Own Classification Model!
-* Learner will be able to
+* Learner will be able to construct neural network models for classification within Keras
 * Some functions introduced/used:
 #### Lesson 4.2 - Build Your Own Regression Model!
-* Learner will be able to
+* Learner will be able to construct neural network models for regression within Keras
 * Some functions introduced/used:
 #### Lesson 4.3 - Let's Wrap Things Up
-* Learner will be able to
+* Learner will be able to evaluate the model performance for both classification and regression
 * Some functions introduced/used:
 
