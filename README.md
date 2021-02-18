@@ -17,7 +17,7 @@ Datacamp assigned Matthew R. Lehnert a take-home test on 2/15/2021 as part of an
 6. The track outline is not reflective of an existing track (**complete**)
 7. Save this proposal as TrackProposal.md in your GitHub repo (**complete**)
 
-## B. Create a Course Outline
+## B. Create a Course Outline (**complete**)
 **Directions**: Create an outline of one of the courses you would include in your proposed track
 ### Course Outline Roadmap (**complete**)
 1. Create four chapters, each with a descriptive name (**complete**)
