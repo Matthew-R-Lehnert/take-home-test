@@ -23,7 +23,7 @@ dnn_binary_model <- ___ %>%
 ```
 #Instantiate a keras_model_sequential and assign it to dnn_binary_model
 dnn_binary_model <- keras_model_sequential %>%
-#Create the first dense layer with 50 units, relu activation, and an inpute shape equal to the number of columns in X_train
+#Create the first dense layer with 50 units, relu activation, and an input shape equal to the number of columns in X_train
                     layer_dense(units = 50,
                                 activation = 'relu',
                                 input_shape = c(ncol(X_train))) %>%
