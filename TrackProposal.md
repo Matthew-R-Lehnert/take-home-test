@@ -12,7 +12,7 @@ In this track, you can start from zero knowledge of Deep Learning and build your
 * Learner will be able to distinguish time-series, panel, and cross sectional data
 * Learner will be able to design functions for RNN and LSTM within Keras
 * Learner will be able to convert multidimensional images into a one dimensional array using flattening
-* Learner will be able to evaluate the performance of an image classifer they build using CNN within Keras
+* Learner will be able to evaluate the performance of an image classifier they build using CNN within Keras
 * Learner will be able to produce new text using a GAN within Keras
 * Learner will be able to produce a new image using a GAN within Keras
 * Learner will be able to name common open source pretrained models
@@ -29,10 +29,10 @@ Whether you are a complete noob, a seasoned data scientist, or a professional st
 ### Course Learning Objectives
 * Learner will be able to identify use cases where Deep Learning is a better candidate compared to parametric methods and other machine learning algorithms
 * Learner will be able to name different Deep Learning frameworks such as Tensorflow,  Microsoft Cognitive Toolkit, Theano, and PlaidML
-* Learner will be able to recall the steps of build, compilem, fit, predict, and evaluate
+* Learner will be able to recall the steps of build, compile, fit, predict, and evaluate
 ## 2.	Deep Neural Networks in R
 ### Course Marketing Description
-Deep Neural Networks (DNNs) are working behind the scenes of your everyday life.  From recommeding products for you to buy, classifying your favorite cat pictures, forecasting the weather, to predicting tomorrow's stock prices, DNNs are only getting more powerful.  With RStudio's creation of the Keras package it is now possible to deploy powerful DNNs within R.  After a broad discussion of DNNs, this course will introduce you to the basic layered architecture of Keras and teach you to build different models for classification and regression problems.
+Deep Neural Networks (DNNs) are working behind the scenes of your everyday life.  From recommending products for you to buy, classifying your favorite cat pictures, forecasting the weather, to predicting tomorrow's stock prices, DNNs are only getting more powerful.  With RStudio's creation of the Keras package it is now possible to deploy powerful DNNs within R.  After a broad discussion of DNNs, this course will introduce you to the basic layered architecture of Keras and teach you to build different models for classification and regression problems.
 ### Course Learning Objectives
 *  Learner will be able to modify datasets into train/test/validation sets
 *  Learner will be able to differentiate classification and regression problems
@@ -46,11 +46,11 @@ Wouldn't it be nice if you could predict tomorrow's stock price of your favorite
 *  Learner will be able to design functions for RNN and LSTM within Keras
 ## 4.	Convolutional Neural Networks in R
 ### Course Marketing Description
-Convolutional Neural Networks???  That sounds... **convoluted**!  Don't run!  In this course we will make convolutional neural networks (CNNs) seem easy.  Enroll today to enage with one of the most powerful architectures for image recognition.  Gambling at the race track you would want to know whether the animal was a horse or a donkey.  This course on CNNs will help you place your bets!
+Convolutional Neural Networks???  That sounds... **convoluted**!  Don't run!  In this course we will make convolutional neural networks (CNNs) seem easy.  Enroll today to engage with one of the most powerful architectures for image recognition.  Gambling at the race track you would want to know whether the animal was a horse or a donkey.  This course on CNNs will help you place your bets!
 ### Course Learning Objectives
 *  Learner will be able to modify datasets into train/test/validation sets
 *  Learner will be able to convert multidimensional images into a one dimensional array using flattening
-*  Learner will be able to evaluate the performance of an image classifer they build using CNN within Keras
+*  Learner will be able to evaluate the performance of an image classifier they build using CNN within Keras
 ## 5.	Generative Adversarial Networks in R
 ### Course Marketing Description
 Did you know it is possible for a machine to create a cartoon character that you describe?  Generative Adversarial Networks (GANs) make this possible!  This course will teach you how researchers are using GANs to generate text, video, images, sound, and more! With hands on experience, you will gain the foundational layers to generate your own novel creations (or are they the AI's creations?). 
