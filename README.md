@@ -19,13 +19,13 @@ Datacamp assigned Matthew R. Lehnert a take-home test on 2/15/2021 as part of an
 
 ## B. Create a Course Outline
 **Directions**: Create an outline of one of the courses you would include in your proposed track
-### Course Outline Roadmap
+### Course Outline Roadmap (**complete**)
 1. Create four chapters, each with a descriptive name (**complete**)
 2. Chapter 1 has three lessons and Chapters 2 - 4 have 3 or 4 lessons each (**complete**)
-3. Each lesson has at least one specific, measurable learning objective
-4. Each learning objective begins with “Learner will be able to...” and uses a verb from the vocab list
+3. Each lesson has at least one specific, measurable learning objective (**complete**)
+4. Each learning objective begins with “Learner will be able to...” and uses a verb from the vocab list (**complete**)
 5. The ordering of lessons is optimized for learner engagement and narrative coherence (**complete**)
-6. The course outline is sufficiently detailed to prove that the course will satisfy the learning objective stated in the proposed track
+6. The course outline is sufficiently detailed to prove that the course will satisfy the learning objective stated in the proposed track (**complete**)
 7. The course outline is not reflective of an existing course (**complete**)
 8. The course can be completed in about 4 hours by a learner of appropriate skill level (**complete**)
 9. Save this outline as CourseOutline.md in your Github repo (**complete**)
