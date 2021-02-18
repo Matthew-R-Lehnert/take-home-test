@@ -3,6 +3,11 @@
 ## Context
 It's time to start building your first model!  In this exercise we will start the workflow of build, compile, fit, evaluate, and predict.  The first step is to build the sequential model with an input layer, hidden layers, and an output layer using the `keras_model_sequential` and `layer_dense` functions from `library(keras)`. Next, we will compile the model by choosing an optimizer, a loss function, and evaluation metrics.  The rest of the workflow will be covered in subsequent exercises.
 
+## Learning Outcome Assessed
+* Learner will be able to differentiate classification and regression problems
+* Learner will be able to produce the initial layers of a binary classification model
+* Learner will be able to recall the steps of build, compile, fit, predict, and evaluate
+
 ## Instructions
 * Instantiate a sequential model in Keras using `keras_model_sequential` and assign it to `dnn_binary_model`
 * Create the first dense layer with `50` units, `'relu'` activation, and use `ncol` to set the input shape equal to the number of columns in X_train
