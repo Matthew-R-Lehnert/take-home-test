@@ -8,7 +8,7 @@ It's time to start building your first model!  In this exercise we will start th
 * Create the first dense layer with `50` units, `'relu'` activation, and use `ncol` to set the input shape equal to the number of columns in X_train
 * Assign the appropriate activation function to the output layer (Look back at the slides on activation if you forgot!)
 * Assign the appropriate loss function to the compile function (Look back at the slides on loss if you forgot!)
-* 
+
 ## Code (Scaffolded)
 ```
 # Instantiate a keras_model_sequential and assign it to dnn_binary_model
