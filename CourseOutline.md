@@ -47,10 +47,10 @@ Deep Neural Networks (DNNs) are working behind the scenes of your everyday life.
 ### Chapter 4 - Build Your Own Model
 #### Lesson 4.1 - Build Your Own Classification Model!
 * Learner will be able to construct neural network models for classification within Keras
-* Some functions introduced/used: `%<-%`, `%>%`,`keras_model_sequential()`, `layer_dense()`, `compile()`,`fit()`, `predict_classes()
+* Some functions introduced/used: `%<-%`, `%>%`,`keras_model_sequential()`, `layer_dense()`, `compile()`,`fit()`, `predict_classes()`
 #### Lesson 4.2 - Build Your Own Regression Model!
 * Learner will be able to construct neural network models for regression within Keras
-* Some functions introduced/used: `%<-%`, `%>%`,`keras_model_sequential()`, `layer_dense()`, `compile()`,`fit()`, `predict()
+* Some functions introduced/used: `%<-%`, `%>%`,`keras_model_sequential()`, `layer_dense()`, `compile()`,`fit()`, `predict()`
 #### Lesson 4.3 - Let's Wrap Things Up
 * Learner will be able to evaluate the model performance for both classification and regression
 * Some functions introduced/used: `evaluate()`
