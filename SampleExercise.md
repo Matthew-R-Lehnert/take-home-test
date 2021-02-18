@@ -27,7 +27,7 @@ dnn_binary_model <- ___ %>%
 ```
                       
                                   
-## Code Solution
+## Code (Solution)
 ```
 # Instantiate a keras_model_sequential and assign it to dnn_binary_model
 dnn_binary_model <- keras_model_sequential %>%
