@@ -30,11 +30,11 @@ Datacamp assigned Matthew R. Lehnert a take-home test on 2/15/2021 as part of an
 8. The course can be completed in about 4 hours by a learner of appropriate skill level (**complete**)
 9. Save this outline as CourseOutline.md in your Github repo (**complete**)
 
-## C. Create a Sample Exercise
+## C. Create a Sample Exercise (**complete**)
 **Directions** Create a sample exercise for a lesson from your course outline. A sample exercise is a short code snippet (approximately 5 - 10 lines of code and 4 - 5 lines of code comments) with blanks that learners will fill in based on 2 - 4 bulleted instructions.
-### Sample Exercise Roadmap
-1. The exercise has 3 - 4 sentences of “Context” that engage the learner and explain why they are completing the exercise
-2. The exercise has 2 - 4 bulleted instructions. Each instruction is a complete sentence that describes a specific task (usually a single line of code that the learner must write)
-3. The solution code is no more than 15 lines of code (including 4 - 5 lines of code comments and any necessary line breaks)
-4. The sample exercise assesses one or two measurable learning objectives
+### Sample Exercise Roadmap (**complete**)
+1. The exercise has 3 - 4 sentences of “Context” that engage the learner and explain why they are completing the exercise (**complete**)
+2. The exercise has 2 - 4 bulleted instructions. Each instruction is a complete sentence that describes a specific task (usually a single line of code that the learner must write) (**complete**)
+3. The solution code is no more than 15 lines of code (including 4 - 5 lines of code comments and any necessary line breaks) (**complete**)
+4. The sample exercise assesses one or two measurable learning objectives (**complete**)
 5. Save this exercise as SampleExercise.md in your GitHub repo (**complete**)
