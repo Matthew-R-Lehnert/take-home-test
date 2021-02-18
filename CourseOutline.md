@@ -10,7 +10,7 @@ Deep Neural Networks (DNNs) are working behind the scenes of your everyday life.
 * Learner will be able to identify use cases where Deep Learning is a better candidate compared to parametric methods and other machine learning algorithms
 #### Lesson 1.2 - Introduction to Layers in Keras
 * Learner will be able to recall the steps of build and compile
-* Some functions introduced/used:
+* Some functions introduced/used:`%>%`,`keras_model_sequential()`, `layer_dense()`, `compile()`
 #### Lesson 1.3 - Build Your First Model!
 * Learner will be able to recall the steps of fit, predict, and evaluate
 * Some functions introduced/used:
