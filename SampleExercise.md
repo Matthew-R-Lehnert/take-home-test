@@ -1,6 +1,10 @@
 # Build Your First Model! (Sample Exercise)
 ## Context
 ## Instructions
+* Instantiate a sequential model in Keras using `keras_model_sequential` and assign it to `dnn_binary_model`
+* Create the first dense layer with `50` units, `'relu'` activation, and use `ncol` to set the input shape equal to the number of columns in X_train
+* Assign the appropriate activation function to the output layer
+* Assign the appropriate loss function to the compile function
 ## Code (Scaffolded)
 ```
 #Instantiate a keras_model_sequential and assign it to dnn_binary_model
