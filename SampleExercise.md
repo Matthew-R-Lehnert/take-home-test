@@ -2,6 +2,7 @@
 ## Context
 ## Instructions
 ## Code (Scaffolded)
+```
   #Instantiate a keras_model_sequential and assign it to dnn_binary_model
   dnn_binary_model <- keras_model_sequential %>%
                       layer_dense(units = 50,
@@ -12,6 +13,7 @@
                       compile(optimizer = 'adam',
                               loss = 'binary_crossentropy',
                               metrics = c('accuracy'))
+```
                       
                                   
 ## Code Solution
